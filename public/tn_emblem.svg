@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#fcfbf7" stroke="#15803d" stroke-width="4"/>
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#ca8a04" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <path d="M100 25 L120 70 L80 70 Z" fill="#ca8a04"/>
+  <rect x="85" y="70" width="30" height="40" fill="#eab308" rx="2"/>
+  <circle cx="100" cy="125" r="14" fill="#15803d"/>
+  <path d="M70 145 Q100 135 130 145" stroke="#15803d" stroke-width="3" fill="none"/>
+  <text x="100" y="165" font-size="11" font-weight="900" text-anchor="middle" fill="#15803d" font-family="sans-serif">தமிழ்நாடு அரசு</text>
+  <text x="100" y="180" font-size="9" font-weight="700" text-anchor="middle" fill="#1e293b" font-family="sans-serif">GOVT OF TAMIL NADU</text>
+</svg>

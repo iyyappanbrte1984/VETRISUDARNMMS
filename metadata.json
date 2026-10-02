@@ -1,0 +1,6 @@
+{
+  "name": "வெற்றிச் சுடர் NMMS",
+  "description": "காடையாம்பட்டி வட்டார அரசு நடுநிலைப்பள்ளிகள் மற்றும் KGBV பள்ளி மாணவர்களின் NMMS OMR தேர்வு மதிப்பெண்கள் கண்காணிப்பு மற்றும் இணையவழிப் பயிற்சித் தளம்.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
